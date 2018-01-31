@@ -1,4 +1,4 @@
-update=Friday, January 26, 2018 'PMt' 07:26:43 PM
+update=Wednesday, January 31, 2018 'PMt' 05:06:32 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
 [eeschema]
 version=1
 LibDir=../Levitator;/Library/Application Support/kicad/library;../../../../../kicad_sources/library-repos/kicad-library/template
@@ -72,3 +62,13 @@ LibName30=ss495a
 LibName31=lmd1820x
 LibName32=microchip_pic16mcu
 LibName33=linear
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/Users/Ilya/Google Drive/Projects/SML/Hardware/Schematics/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
